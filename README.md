@@ -25,5 +25,8 @@
 Попробовать различные методы поиска аномалий (https://dyakonov.org/2017/04/19/поиск-аномалий-anomaly-detection/)
 
 ### 5. Подготовка призентации проекта (Иван + Павел - до 21.04.19)
+
+
   
-  
+# Ссылка на данные для запуска моделей: https://drive.google.com/drive/folders/16WopWumVKp64e_dqkXQ8Nv3KxOQJTSm7?usp=sharing
+	Распаковать архив необходимо в папку, где лежит main.ipynb.
