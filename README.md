@@ -28,5 +28,6 @@
 
 
   
-	Ссылка на данные для запуска моделей: https://drive.google.com/drive/folders/16WopWumVKp64e_dqkXQ8Nv3KxOQJTSm7?usp=sharing
-	Распаковать архив необходимо в папку, где лежит main.ipynb.
+Ссылка на данные для запуска моделей: https://drive.google.com/drive/folders/16WopWumVKp64e_dqkXQ8Nv3KxOQJTSm7?usp=sharing
+
+Распаковать архив необходимо в папку, где лежит main.ipynb.
